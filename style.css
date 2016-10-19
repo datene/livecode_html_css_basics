@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i|Montserrat:7s00');
+
+body {
+  margin: 0;
+}
+
+.banner {
+  background: url("https://unsplash.it/1000/600");
+  background-size: cover;
+  height: 600px;
+  width: 100vw;
+}
+
+.banner h1 {
+  font-family: Montserrat;
+  font-weight: 700;
+  padding-top: 300px;
+  text-align: center;
+}
+
+h1, h2 {
+  color: white;
+}
+
+
+.banner h2 {
+  font-family: Lora;
+  text-align: center;
+}
+
+.content {
+  width: 500px;
+  font-family: Lora;
+  font-weight: 400;
+  margin: 50px auto;
+}
+
+.content h3 {
+  font-family: Montserrat;
+  font-weight: 400;
+  color: #A0A0A0;
+}
+
+a {
+  font-family: Lora;
+  font-style: italic;
+  color: #A0A0A0;
+  background: rgba(233, 253, 240, 1); 
+  text-decoration: none;
+  font-size: 25px;
+  transition: background 800ms ease;
+}
+
+a:hover {
+  background: rgba(123, 233, 162, 1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
